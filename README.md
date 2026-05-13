@@ -26,10 +26,10 @@ A modern, clean, and elegant SDDM theme inspired by Windows 11. It features a be
 ![Lock Screen](screenshot.png)
 
 ### Login Screen
-![Login Screen](screnshot2.png)
+![Login Screen](screenshot2.png)
 
 ### Screenshot2
-![User Selection](scrennshot4.png)
+![User Selection](screenshot4.png)
 
 ## Installation
 
