@@ -3,7 +3,7 @@
 
 A modern, clean, and elegant SDDM theme inspired by Windows 11. It features a beautiful glassmorphism UI, dynamic accent color extraction from wallpapers, and smooth transitions.
 
-![Lock Screen](screenshot.png)
+![Lock Screen](screenshot3.png)
 
 ## Features
 
