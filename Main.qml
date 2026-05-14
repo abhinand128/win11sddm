@@ -256,6 +256,7 @@ Rectangle {
         anchors.fill: parent
         source: backgroundImage
         blurEnabled: true
+        blurMax: 64
         blur: loginState.visible ? 1.0 : 0.0
         opacity: loginState.visible ? 1.0 : 0.0
         autoPaddingEnabled: false
