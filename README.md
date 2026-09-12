@@ -23,13 +23,13 @@ A modern, clean, and elegant SDDM theme inspired by Windows 11. It features a be
 ## Screenshots
 
 ### Lock Screen
-![Lock Screen](screenshot.png)
+![Lock Screen](111.png)
 
 ### Login Screen
-![Login Screen](screenshot2.png)
+![Login Screen](Screenshot_20260913_015642.png)
 
 ### Screenshot2
-![User Selection](screenshot4.png)
+![User Selection](Screenshot_20260913_015440.png)
 
 ## Installation
 
