@@ -1,0 +1,11 @@
+[SddmGreeterTheme]
+Name=Windows 11 SDDM
+Description=A modern Windows 11 inspired SDDM theme with dynamic wallpaper, glassmorphism effects, and automatic accent color extraction.
+Author=abhinand128
+Copyright=(c) 2026 abhinand128
+License=MIT
+Type=sddm-theme
+MainScript=Main.qml
+Screenshot=screenshot.png
+QtVersion=6
+X-SDDM-Theme-InterfaceVersion=2
